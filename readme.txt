@@ -14,6 +14,10 @@ Donny was a good bowler, and a good man. He was one of us.
 
 He was a man who loved the outdoors... and bowling, and as a surfer he explored the beaches of Southern California, from La Jolla to Leo Carrillo and... up to... Pismo. He died, like so many young men of his generation, he died before his time.
 
+* Attribution
+
+This is a light-hearted parody, and a fork, of the very popular Hello Dolly plugin by my old friend Matt Mullenweg.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hello-donny/` directory, or install the plugin through the WordPress plugins screen directly.
